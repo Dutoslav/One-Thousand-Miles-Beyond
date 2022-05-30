@@ -1,4 +1,4 @@
-terrain_types = {plains:1, hills:1.2}
+terrain_types = {plains:1, hills:1.2, down_hill:0.9}
 
 
 class Player:
